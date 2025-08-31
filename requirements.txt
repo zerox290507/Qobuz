@@ -1,2 +1,2 @@
 python-telegram-bot>=20.0
-qobuz-dl
+flask>=2.0.0
