@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 from subprocess import run, PIPE
 
-BOT_TOKEN = '8424803386:AAGnit2whwd1HRVZkm7kOWCSAb56sHEUUSo8424803386:AAGnit2whwd1HRVZkm7kOWCSAb56sHEUUSo'
+BOT_TOKEN = '8424803386:AAGnit2whwd1HRVZkm7kOWCSAb56sHEUUSo'
 DOWNLOAD_FOLDER = os.path.expanduser('~/QobuzDownloads')
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
 
